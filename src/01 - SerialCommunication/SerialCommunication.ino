@@ -7,7 +7,9 @@
   This library use the code from http://forum.arduino.cc/index.php?topic=396450
 */
 
-// Receive text with an end-marker (tipically a \n (newline)from the Console and echo it to the same Console.
+// Receive text with an end-marker (tipically a \n (newline)
+// from the Console and echo it to the same Console.
+
 #include <Wire.h>
 
 const byte numChars = 64;
