@@ -5,3 +5,5 @@ Arduino Uno board has a USB port used to power it and to connect it to our PC in
 With the Arduino IDE Console Window (activated by Ctrl + Shift + M) we can establish a bidirectional communication to and from the board.
 
 This small Arduino Sketch shows how to receive and send text from and to the Console.
+
+![Serial Communication example image](Images/SerialCommunicationExample.png?raw=true "Serial Communication example")
